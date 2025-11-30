@@ -102,14 +102,3 @@ Seguindo isso, você reduz o risco drasticamente.
 ## 📚 O Que Aprendi
 
 Foi uma experiência olho-aberto! Esses testes com Medusa mostraram como um ataque simples pode derrubar defesas ruins. Em um ambiente controlado, é educativo, mas no mundo real, reforça a importância de boas práticas de segurança. Se você testar isso, lembre-se: só em labs isolados e com permissão!
-
-## 📦 Como Organizei no Repositório
-
-Para deixar tudo organizado, sugeri essa estrutura no GitHub:
-
-```
-/README.md  (este arquivo aqui)
-/wordlists/wordlist.txt
-/img/prints.png  (os screenshots)
-/scripts/comandos.txt  (todos os comandos usados)
-```
